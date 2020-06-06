@@ -1,0 +1,13 @@
+div {
+    width: 20%;
+    margin: auto;
+}
+
+input, button {
+    display:inline-block;
+    padding: 10px;
+}
+
+#text h2, h4{
+    color: #008227;
+}
