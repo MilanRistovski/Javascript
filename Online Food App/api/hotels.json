@@ -1,0 +1,147 @@
+[
+    {
+      "name": "Fast Food Sedmica (7)",
+      "id": 20423,
+      "location": "TC Tri Bisera, MK, Boulevard Jane Sandanski bb, Skopje 1000",
+      "rating": 4.2,
+      "eta": 25,
+      "tags": ["American", "Fast Food"],
+      "img": "./images/1.png"
+    },
+    {
+      "name": "Baking Bread",
+      "id": 27213,
+      "location": "Partizanski Odredi 55, Skopje 1000",
+      "rating": 3.8,
+      "eta": 30,
+      "tags": ["American", "Fast Food"],
+      "img": "./images/2.jpg"
+    },
+    {
+      "name": "Skopski Merak",
+      "id": 52778,
+      "location": "Ul, Debarca St 51, Skopje 1000",
+      "rating": 3.4,
+      "eta": 25,
+      "tags": ["Macedonian", "Mediterranean", "Traditional", "Continental"],
+      "img": "./images/3.jpg"
+    },
+    {
+      "name": "Amigos Restaurant & Bar",
+      "id": 13018,
+      "location": "Macedonia 11, Skopje 1000",
+      "rating": 3.9,
+      "eta": 50,
+      "tags": ["International", "Snacks", "Mexican"],
+      "img": "./images/4.png"
+    },
+    {
+      "name": "Vodenica Mulino",
+      "id": 1015,
+      "location": "Mitropolit Teodosij Gologanov 69, Skopje 1000",
+      "rating": 4.0,
+      "eta": 44,
+      "tags": ["Macedonian", "Mediterranean", "Traditional", "Continental", "International", "Italian"],
+      "img": "./images/5.jpg"
+    },
+    {
+      "name": "Veneto Italian Restaurant",
+      "id": 23893,
+      "location": "Blvd. Partizanski Odredi, Skopje 1000",
+      "rating": 4.1,
+      "eta": 53,
+      "tags": ["Italian", "Mediterranean", "International"],
+      "img": "./images/6.jpg"
+    },
+    {
+      "name": "Star Ocean Restaurant",
+      "id": 30361,
+      "location": "Lermontova 19, Skopje, Skopje 1000",
+      "rating": 4.1,
+      "eta": 47,
+      "tags": ["Chinese"],
+      "img": "./images/7.jpg"
+    },
+    {
+      "name": "Get Caffe And Lounge Bar",
+      "id": 63660,
+      "location": "23 Oktomvri, Skopje 1000",
+      "rating": 4.4,
+      "eta": 51,
+      "tags": ["Cafe", "Italian", "Snacks", "International", "Mediterranean", "Fast Food"],
+      "img": "./images/8.jpg"
+    },
+    {
+      "name": "District Bar & Kitchen",
+      "id": 29123,
+      "location": "Plostad Makedonija 7, Skopje 1000",
+      "rating": 4.1,
+      "eta": 31,
+      "tags": ["Cafe", "Italian", "Snacks", "International", "Mediterranean", "Fast Food", "American", "Vegetarian"],
+      "img": "./images/9.jpg"
+    },
+    {
+      "name": "Gino Ristorante Italiano",
+      "id": 26761,
+      "location": "GTC floor 1 loc. 205, Skopje 1000",
+      "rating": 4.2,
+      "eta": 25,
+      "tags": ["Italian", "Mediterranean", "International"],
+      "img": "./images/10.jpg"
+    },
+    {
+      "name": "Kafana Shpajz",
+      "id": 68159,
+      "location": "Gjorgji Peshkov 10, Skopje 1000",
+      "rating": 4.3,
+      "eta": 53,
+      "tags": ["Macedonian", "Mediterranean", "Traditional", "Continental"],
+      "img": "./images/11.png"
+    },
+    {
+      "name": "DM Restaurant",
+      "id": 49213,
+      "location": "Orce Nikolov, Skopje 1000",
+      "rating": 3.8,
+      "eta": 52,
+      "tags": ["Macedonian", "Mediterranean", "Traditional", "Continental", "International"],
+      "img": "./images/12.jpg"
+    },
+    {
+      "name": "Rock Kafana Rustikana",
+      "id": 21340,
+      "location": "Boulevard Ilinden 94, Skopje 1000",
+      "rating": 4.1,
+      "eta": 57,
+      "tags": ["Fast Food","American", "Snacks", "Traditional", "Macedonian", "International", "Vegetarian"],
+      "img": "./images/13.jpg"
+    },
+    {
+      "name": "Restaurant Pelister",
+      "id": 17281,
+      "location": "Boulevard Macedonia, Skopje 1000",
+      "rating": 4.1,
+      "eta": 43,
+      "tags": ["Macedonian", "Mediterranean", "Traditional", "Continental", "International", "Vegetarian"],
+      "img": "./images/14.jpg"
+    },
+    {
+      "name": "Restaurant Dukat",
+      "id": 63913,
+      "location": "Boulevard Mitropolit Teodosij Gologanov 79, Skopje 1000",
+      "rating": 3.9,
+      "eta": 45,
+      "tags": ["Macedonian", "Mediterranean", "Traditional", "Continental"],
+      "img": "./images/15.jpg"
+    },
+    {
+      "name": "Plaza De Toros",
+      "id": 51766,
+      "location": "Kej 13-ti Noemvri no.65, Skopje 1000",
+      "rating": 3.7,
+      "eta": 41,
+      "tags": ["American", "Mexican", "International", "Vegetarian", "Italian", "Snacks", "Cafe"],
+      "img": "./images/16.jpg"
+    }
+
+  ]
